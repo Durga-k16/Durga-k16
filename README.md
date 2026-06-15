@@ -8,7 +8,6 @@ Java Backend Developer
 - 🏅 NPTEL Elite Certified — Programming in Java (IIT/NIT)
 - 📄 Published research paper in IJIRT (Impact Factor 8.412)
 - Social Presence
-
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/durga-devi-4222682a3)
   
 ---
